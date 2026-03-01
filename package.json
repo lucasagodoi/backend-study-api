@@ -1,0 +1,13 @@
+{
+  "name": "backend-study-api",
+  "version": "1.0.0",
+  "description": "Simple REST API built with Node.js and Express to practice CRUD operations.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
